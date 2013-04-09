@@ -1,0 +1,40 @@
+#eu-cookie-law
+{
+	font-size:12px;
+	color:#fff;
+	background-color:#555555;
+	background-image:url(../images/eu-cookie-law.png);
+	background-repeat:repeat-x;
+	padding:5px 0 5px 5px;
+	border-top:1px solid #FFF;
+	margin:0;
+	position:fixed;
+	z-index:999999999;
+	bottom:0;
+	left:0;
+	width:100%;
+}
+#eu-cookie-law p
+{
+	margin:0;
+}
+#eu-cookie-law a
+{
+	color:#fff;
+	text-decoration:underline;
+}
+
+#eu-cookie-law a:visited
+{
+	color:#fff;
+	text-decoration:underline;
+}
+#eu-cookie-law a:hover
+{
+	color:#ddd;
+}
+#eu-cookie-law img
+{
+	vertical-align:bottom;
+	padding:0 1em 0 1em;
+}
