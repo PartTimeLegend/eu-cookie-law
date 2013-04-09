@@ -4,4 +4,4 @@
 
 test:
 	./node_modules/.bin/jshint travis.js
-	./node_modules/.bin/w3cjs travis.js
+	.w3cjs travis.js
