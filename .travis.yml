@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "0.10.3"
+  - "0.10"
+  - "0.8"
+  - "0.6"
+notifications:
+  irc: "irc.freenode.org#parttimelegend"
+install:
+  - npm install w3jcs
+email:
+    on_success: never
+    on_failure: never
+script:
+  - w3jcs .
