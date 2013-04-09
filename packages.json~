@@ -1,0 +1,7 @@
+{
+  "name": "EU Cookie Law",
+  "description": "Back on the 26th of May 2012 the law changed that required that sites using cookies declare this along with the information. I had seen various examples of this being done with JavaScript. I didn't see the need, you can do it with css.",
+  "version": "0.0.1",
+  "private": true,
+  "npm": "1.1.x"
+}
