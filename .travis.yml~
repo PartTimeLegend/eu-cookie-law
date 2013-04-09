@@ -7,7 +7,7 @@ node_js:
 notifications:
   irc: "irc.freenode.org#parttimelegend"
 install:
-  - npm install w3cjs
+  - npm install w3jcs
 email:
     on_success: never
     on_failure: never
