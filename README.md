@@ -11,6 +11,7 @@ I had seen various examples of this being done with JavaScript. I didn't see the
 
 I put this together for my dad, but he didn't end up using it.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/36997648f40b483f8dca5d9c891b9e40)](https://www.codacy.com/app/PartTimeLegend/eu-cookie-law?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/eu-cookie-law&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/PartTimeLegend/eu-cookie-law.png?branch=master)](https://travis-ci.org/PartTimeLegend/eu-cookie-law) [![Code Climate](https://codeclimate.com/github/PartTimeLegend/eu-cookie-law/badges/gpa.svg)](https://codeclimate.com/github/PartTimeLegend/eu-cookie-law)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/eu-cookie-law&title=EU Cookie Law&language=&tags=github&category=software) 
